@@ -1,6 +1,5 @@
-# demo
+# Calculator
 
-A new Flutter project.
 
 ## Getting Started
 
